@@ -1,3 +1,27 @@
+
+
+downlaoad and extract in C drive 
+copy terraform path and paste in system variable 
+
+
+cd..
+cd..
+cd terraform
+
+terraform 
+
+
+cd sfitapp
+create main.tf 
+       boolean.tf
+
+terraform console
+
+var.pass
+
+
+
+
  variable "Jerin"{
     type=string
     default="Welcome to Sfit,Jerin"
@@ -9,3 +33,8 @@
 variable "Pass"{
     default= false
 }
+
+
+
+
+
