@@ -1,0 +1,11 @@
+ variable "Jerin"{
+    type=string
+    default="Welcome to Sfit,Jerin"
+
+}
+
+
+
+variable "Pass"{
+    default= false
+}
