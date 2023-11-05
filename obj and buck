@@ -1,0 +1,9 @@
+create ROLE ( IAM )
+create Bucket
+
+create lambda    select existing role
+
+paste code 
+
+replace bucket
+
